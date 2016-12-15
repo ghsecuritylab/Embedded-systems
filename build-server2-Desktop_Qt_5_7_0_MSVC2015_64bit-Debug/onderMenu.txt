@@ -1,0 +1,10 @@
+0, 0, Cola, 1.70
+1, 0, Fanta, 1.70
+2, 0, Ice Tea, 1.90
+0, 1, Feestelijke salade, 19.40
+1, 1, Romige aardappel, 17.20
+2, 1, Gyoza, 22.30
+3, 1, Pittige pompoensoep, 8.10
+4, 1, Oosterse courget, 12.40
+5, 1, Krokante aubergine snack, 9.99
+6, 1, Sperziebonensoep, 7.90
